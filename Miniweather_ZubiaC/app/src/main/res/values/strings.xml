@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Miniweather_ZubiaC</string>
+    <string name="rainy">rainy</string>
+    <string name="cloudy">cloudy</string>
+    <string name="snowy">snowy</string>
+    <string name="stormy">stormy</string>
+    <string name="sunny">sunny</string>
+    <string name="windy">windy</string>
 </resources>

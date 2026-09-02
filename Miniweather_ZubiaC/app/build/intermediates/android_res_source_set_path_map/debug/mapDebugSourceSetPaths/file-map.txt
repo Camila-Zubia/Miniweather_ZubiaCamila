@@ -1,0 +1,8 @@
+zubia.camila.miniweather_zubiac.app-pngs-0 C:\Users\Programación Avanzad\Documents\GitHub\Miniweather_ZubiaCamila\Miniweather_ZubiaC\app\build\generated\res\pngs\debug
+zubia.camila.miniweather_zubiac.app-updated_navigation_xml-1 C:\Users\Programación Avanzad\Documents\GitHub\Miniweather_ZubiaCamila\Miniweather_ZubiaC\app\build\generated\updated_navigation_xml\debug
+zubia.camila.miniweather_zubiac.app-packageDebugResources-2 C:\Users\Programación Avanzad\Documents\GitHub\Miniweather_ZubiaCamila\Miniweather_ZubiaC\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+zubia.camila.miniweather_zubiac.app-packageDebugResources-3 C:\Users\Programación Avanzad\Documents\GitHub\Miniweather_ZubiaCamila\Miniweather_ZubiaC\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+zubia.camila.miniweather_zubiac.app-debug-4 C:\Users\Programación Avanzad\Documents\GitHub\Miniweather_ZubiaCamila\Miniweather_ZubiaC\app\build\intermediates\merged_res\debug\mergeDebugResources
+zubia.camila.miniweather_zubiac.app-debug-5 C:\Users\Programación Avanzad\Documents\GitHub\Miniweather_ZubiaCamila\Miniweather_ZubiaC\app\src\debug\res
+zubia.camila.miniweather_zubiac.app-main-6 C:\Users\Programación Avanzad\Documents\GitHub\Miniweather_ZubiaCamila\Miniweather_ZubiaC\app\src\main\res
+gradleHome-0 C:\Users\Programación Avanzad\.gradle

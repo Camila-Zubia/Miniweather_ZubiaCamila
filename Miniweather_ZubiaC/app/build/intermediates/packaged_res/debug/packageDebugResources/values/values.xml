@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="lilac">#AB80F8</color>
+    <color name="magenta">#A53CD1</color>
+    <color name="midnight_blue">#0A1357</color>
+    <color name="mustard">#FFCA28</color>
+    <color name="purple">#7547D3</color>
+    <color name="rose">#C2417A</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Miniweather_ZubiaC</string>
+    <string name="cloudy">cloudy</string>
+    <string name="rainy">rainy</string>
+    <string name="snowy">snowy</string>
+    <string name="stormy">stormy</string>
+    <string name="sunny">sunny</string>
+    <string name="windy">windy</string>
+    <style name="Base.Theme.Miniweather_ZubiaC" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Miniweather_ZubiaC" parent="Base.Theme.Miniweather_ZubiaC"/>
+</resources>
