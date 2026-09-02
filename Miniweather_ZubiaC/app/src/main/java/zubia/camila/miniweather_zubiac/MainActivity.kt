@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
             val ivWeather : ImageView = findViewById<ImageView>(R.id.ivWeather)
             val tvTemperature : TextView = findViewById<TextView>(R.id.tvTemperature)
             val tvWeather : TextView = findViewById<TextView>(R.id.tvWeather)
-
+            insets
         }
     }
 }
