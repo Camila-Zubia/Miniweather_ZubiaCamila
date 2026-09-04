@@ -31,6 +31,9 @@ int mipmap ic_launcher 0x0
 int mipmap ic_launcher_round 0x0
 int string app_name 0x0
 int string cloudy 0x0
+int string good_afternoon 0x0
+int string good_morning 0x0
+int string good_night 0x0
 int string rainy 0x0
 int string snowy 0x0
 int string stormy 0x0

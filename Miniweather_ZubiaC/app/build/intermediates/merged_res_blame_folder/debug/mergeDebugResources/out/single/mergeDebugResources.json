@@ -1,110 +1,106 @@
 [
     {
-        "merged": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-debug-34:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-main-36:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "zubia.camila.miniweather_zubiac.app-debug-34:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "zubia.camila.miniweather_zubiac.app-main-36:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-debug-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "zubia.camila.miniweather_zubiac.app-debug-34:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "zubia.camila.miniweather_zubiac.app-main-36:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-debug-34:\\drawable_ic_windy.xml.flat",
-        "source": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-main-36:\\drawable\\ic_windy.xml"
+        "merged": "zubia.camila.miniweather_zubiac.app-debug-34:/xml_data_extraction_rules.xml.flat",
+        "source": "zubia.camila.miniweather_zubiac.app-main-36:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-debug-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "zubia.camila.miniweather_zubiac.app-debug-34:/drawable_ic_windy.xml.flat",
+        "source": "zubia.camila.miniweather_zubiac.app-main-36:/drawable/ic_windy.xml"
     },
     {
-        "merged": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-debug-34:\\drawable_ic_cloudy.xml.flat",
-        "source": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-main-36:\\drawable\\ic_cloudy.xml"
+        "merged": "zubia.camila.miniweather_zubiac.app-debug-34:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "zubia.camila.miniweather_zubiac.app-main-36:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-debug-34:\\drawable_ic_stormy.xml.flat",
-        "source": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-main-36:\\drawable\\ic_stormy.xml"
+        "merged": "zubia.camila.miniweather_zubiac.app-debug-34:/xml_backup_rules.xml.flat",
+        "source": "zubia.camila.miniweather_zubiac.app-main-36:/xml/backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-debug-34:\\layout_activity_city.xml.flat",
-        "source": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-main-36:\\layout\\activity_city.xml"
+        "merged": "zubia.camila.miniweather_zubiac.app-debug-34:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "zubia.camila.miniweather_zubiac.app-main-36:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-debug-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "zubia.camila.miniweather_zubiac.app-debug-34:/drawable_ic_stormy.xml.flat",
+        "source": "zubia.camila.miniweather_zubiac.app-main-36:/drawable/ic_stormy.xml"
     },
     {
-        "merged": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-debug-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "zubia.camila.miniweather_zubiac.app-debug-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "zubia.camila.miniweather_zubiac.app-main-36:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-debug-34:\\mipmap-anydpi_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-main-36:\\mipmap-anydpi\\ic_launcher_round.xml"
+        "merged": "zubia.camila.miniweather_zubiac.app-debug-34:/drawable_ic_cloudy.xml.flat",
+        "source": "zubia.camila.miniweather_zubiac.app-main-36:/drawable/ic_cloudy.xml"
     },
     {
-        "merged": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-debug-34:\\drawable_ic_sunny.xml.flat",
-        "source": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-main-36:\\drawable\\ic_sunny.xml"
+        "merged": "zubia.camila.miniweather_zubiac.app-debug-34:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "zubia.camila.miniweather_zubiac.app-main-36:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-debug-34:\\drawable_background_gradient.xml.flat",
-        "source": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-main-36:\\drawable\\background_gradient.xml"
+        "merged": "zubia.camila.miniweather_zubiac.app-debug-34:/drawable_logo_negativo.xml.flat",
+        "source": "zubia.camila.miniweather_zubiac.app-main-36:/drawable/logo_negativo.xml"
     },
     {
-        "merged": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-debug-34:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "zubia.camila.miniweather_zubiac.app-debug-34:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "zubia.camila.miniweather_zubiac.app-main-36:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-debug-34:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-main-36:\\xml\\backup_rules.xml"
+        "merged": "zubia.camila.miniweather_zubiac.app-debug-34:/drawable_ic_snowy.xml.flat",
+        "source": "zubia.camila.miniweather_zubiac.app-main-36:/drawable/ic_snowy.xml"
     },
     {
-        "merged": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-debug-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "zubia.camila.miniweather_zubiac.app-debug-34:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "zubia.camila.miniweather_zubiac.app-main-36:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-debug-34:\\mipmap-anydpi_ic_launcher.xml.flat",
-        "source": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-main-36:\\mipmap-anydpi\\ic_launcher.xml"
+        "merged": "zubia.camila.miniweather_zubiac.app-debug-34:/drawable_ic_rainy.xml.flat",
+        "source": "zubia.camila.miniweather_zubiac.app-main-36:/drawable/ic_rainy.xml"
     },
     {
-        "merged": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-debug-34:\\drawable_ic_snowy.xml.flat",
-        "source": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-main-36:\\drawable\\ic_snowy.xml"
+        "merged": "zubia.camila.miniweather_zubiac.app-debug-34:/drawable_background_gradient.xml.flat",
+        "source": "zubia.camila.miniweather_zubiac.app-main-36:/drawable/background_gradient.xml"
     },
     {
-        "merged": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-debug-34:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-main-36:\\layout\\activity_main.xml"
+        "merged": "zubia.camila.miniweather_zubiac.app-debug-34:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "zubia.camila.miniweather_zubiac.app-main-36:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-debug-34:\\drawable_ic_rainy.xml.flat",
-        "source": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-main-36:\\drawable\\ic_rainy.xml"
+        "merged": "zubia.camila.miniweather_zubiac.app-debug-34:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "zubia.camila.miniweather_zubiac.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-debug-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "zubia.camila.miniweather_zubiac.app-debug-34:/layout_activity_main.xml.flat",
+        "source": "zubia.camila.miniweather_zubiac.app-main-36:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-debug-34:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-main-36:\\xml\\data_extraction_rules.xml"
+        "merged": "zubia.camila.miniweather_zubiac.app-debug-34:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "zubia.camila.miniweather_zubiac.app-main-36:/mipmap-anydpi/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-debug-34:\\drawable_logo_negativo.xml.flat",
-        "source": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-main-36:\\drawable\\logo_negativo.xml"
+        "merged": "zubia.camila.miniweather_zubiac.app-debug-34:/drawable_ic_sunny.xml.flat",
+        "source": "zubia.camila.miniweather_zubiac.app-main-36:/drawable/ic_sunny.xml"
+    },
+    {
+        "merged": "zubia.camila.miniweather_zubiac.app-debug-34:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "zubia.camila.miniweather_zubiac.app-main-36:/mipmap-hdpi/ic_launcher.webp"
     },
     {
         "merged": "zubia.camila.miniweather_zubiac.app-debug-34:/layout_activity_city.xml.flat",
         "source": "zubia.camila.miniweather_zubiac.app-main-36:/layout/activity_city.xml"
     },
     {
-        "merged": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-debug-34:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-main-36:\\drawable\\ic_launcher_background.xml"
+        "merged": "zubia.camila.miniweather_zubiac.app-debug-34:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "zubia.camila.miniweather_zubiac.app-main-36:/mipmap-anydpi/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-debug-34:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-debug-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-debug-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Programación Avanzad\\.gradle\\daemon\\9.5.0\\zubia.camila.miniweather_zubiac.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "zubia.camila.miniweather_zubiac.app-debug-34:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "zubia.camila.miniweather_zubiac.app-main-36:/mipmap-hdpi/ic_launcher_round.webp"
     }
 ]

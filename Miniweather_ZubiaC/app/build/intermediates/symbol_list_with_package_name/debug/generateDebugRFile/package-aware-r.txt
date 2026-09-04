@@ -32,6 +32,9 @@ mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
 string cloudy
+string good_afternoon
+string good_morning
+string good_night
 string rainy
 string snowy
 string stormy

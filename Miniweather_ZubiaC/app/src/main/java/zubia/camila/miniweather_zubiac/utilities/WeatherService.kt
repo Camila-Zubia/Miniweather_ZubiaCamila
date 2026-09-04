@@ -28,4 +28,8 @@ class WeatherService(private val context: Context) {
         }
         return Weather(temp, weatherStates[weatherIndex])
     }
+
+    fun returnWeather(city : String): Weather {
+        return generateWeather()
+    }
 }

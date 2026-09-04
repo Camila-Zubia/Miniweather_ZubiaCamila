@@ -4,7 +4,7 @@
             "outputFile": "zubia.camila.miniweather_zubiac.app-mergeDebugResources-32:/values-v28/values-v28.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Programación Avanzad\\.gradle\\caches\\9.5.0\\transforms\\5b166f50b791e77e96dd63646a84ceac\\transformed\\appcompat-1.6.1\\res\\values-v28\\values-v28.xml",
+                    "source": "C:\\Users\\Usuario\\.gradle\\caches\\9.7.1\\transforms\\96c25a5064fa11c3c03f6fe9bfa7c489\\transformed\\appcompat-1.6.1\\res\\values-v28\\values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,8",
                         "startColumns": "4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Programación Avanzad\\.gradle\\caches\\9.5.0\\transforms\\74576086400ff3332d0b8269a0498b80\\transformed\\material-1.10.0\\res\\values-v28\\values-v28.xml",
+                    "source": "C:\\Users\\Usuario\\.gradle\\caches\\9.7.1\\transforms\\e3bf8a64d18c48f5ea2e12af1d783374\\transformed\\material-1.10.0\\res\\values-v28\\values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
